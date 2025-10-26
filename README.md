@@ -1,174 +1,98 @@
-- 👋Danzzsky / Chloe Assistant 🌸
-
-> Developer | Automation & Bot Whisperer | Pembuat Chloe CDN, Danzz Store & Bot AI
-"Automation is not the future. It is the present — saya membangunnya."
-
-
-
-<p align="right">
-  <img src="https://files.catbox.moe/ifx2y7.png" alt="Chloe Assistant" width="180"/>
-</p>
----
-
-🚀 Tentang Saya
-
-Saya adalah pengembang Node.js yang fokus pada otomasi, integrasi AI, dan infrastruktur self-hosted. Membangun ekosistem yang terdiri dari CDN, payment flows (QRIS), bot WhatsApp/Discord, dan tooling Pterodactyl untuk deployment & proteksi.
+Berikut contoh README menarik dan profesional untuk profil GitHub kamu, dengan gaya modern, clean, dan mencerminkan personal branding “Danzzsky / Chloe Assistant”.
 
 
 ---
 
-🛠️ Tech Stack & Tools Favorit
+✨ Hai, Aku Danzzsky!
 
-Bahasa: Node.js (JavaScript/TypeScript)
+> Developer dengan passion di dunia Automation, Bot AI, CDN Technology, dan Pterodactyl Engineering.
 
-Frontend: React, Next.js, TailwindCSS, ShadCN/UI
 
-AI / LLM: GPT / Gemini / endpoint custom
 
-Database: MongoDB, GitHub-based JSON DB, flat JSON
+<img align="right" src="https://files.catbox.moe/ifx2y7.png" alt="Chloe Assistant" width="230"/>🚀 Tentang Saya
 
-Hosting & DevOps: Pterodactyl, VPS (Ubuntu), Vercel, Docker
+🧠 Fokus utama: Node.js, AI Integration, Fullstack Development
 
-Utilities: Baileys (WhatsApp), Axios, Form-Data, Catbox uploads
+☁️ Membangun ekosistem digital: Chloe CDN, Danzz Store, Bot WhatsApp & Discord
+
+⚡ Menguasai: Pterodactyl, Vercel, GitHub API, QRIS Payment Automation
+
+🎯 Target: Membuat ekosistem otomatis yang bisa berjalan 24/7 secara self-hosted
 
 
 
 ---
 
-✨ Highlight Projects
+🛠️ Tech Stack
 
-Chloe CDN — Sistem upload file + auto-generate CDN link (GitHub repo sebagai DB).
+💻 Backend  : Node.js | Express | Next.js | FastAPI
+🎨 Frontend : React | TailwindCSS | ShadCN/UI
+🤖 AI Model : Gemini | GPT | Custom LLM API
+🗄️ Database : MongoDB | GitHub Database | JSON Engine
+⚙️ DevOps   : Pterodactyl | VPS Ubuntu | Docker
 
-Chloe Assistant (WhatsApp) — Bot AI dengan fitur image-edit, payment, sewa bot, plugin modular.
 
-Danzz Store — Sistem pembayaran QRIS dengan dashboard admin & notifikasi.
+---
 
-Pterodactyl Protect — Skrip Bash installer/uninstall untuk proteksi panel + backup/restore.
+🌟 Project Unggulan
+
+Project	Deskripsi	Status
+
+Chloe CDN	Sistem upload file → auto generate link CDN dengan GitHub Repo	✅ Stable
+Chloe Assistant Bot	AI-powered WhatsApp bot dengan fitur otomatisasi bisnis	🔧 On Development
+Danzz Store	Sistem pembayaran QRIS otomatis + dashboard modern	🚀 Live
+Pterodactyl Protect	Bash installer untuk proteksi & backup panel	🛡️ Active
 
 
 
 ---
 
-📂 Struktur Repo (contoh)
-
-/
-├─ all/
-│  ├─ system/
-│  │  ├─ index.js        # entrypoint
-│  │  ├─ main.js
-│  │  └─ neo-z.js        # handler utama
-│  └─ lib/
-│     └─ casefitur.json
-├─ AlicePlugins/
-├─ AliceDatabase/
-│  └─ settings.js
-├─ assets/
-└─ README.md
-
-
----
-
-🔌 Fitur Umum (contoh)
-
-Plugin-based command handler (±240 kasus)
-
-Upload image → auto reupload ke Catbox / API eksternal
-
-Pembayaran QRIS (manual/auto) + history transaksi JSON
-
-Sewa bot / buysewa + integrasi Pterodactyl server management
-
-Backup & restore Pterodactyl via Bash (install / uninstall protect)
-
-Multi-platform: WhatsApp + Discord + Web dashboard
-
-
-
----
-
-⚡ Cara Menjalankan (quickstart)
-
-# clone
-git clone https://github.com/danzzsky/REPO-ANDA.git
-cd REPO-ANDA
-
-# install
-npm install
-
-# set env
-cp .env.example .env
-# edit .env => MONGO_URI, API_KEYS, OWNER_NUMBER, etc.
-
-# jalankan (development)
-npm run dev
-
-# build (production)
-npm run build
-npm start
-
-
----
-
-🧩 Plugin & Kontribusi
-
-Saya menerima PR dan issue—khususnya untuk:
-
-patch bug critical (Baileys / media handling)
-
-plugin baru (contoh: tofigure, superhd, buysewa dengan endpoint baru)
-
-integrasi API payment / reupload image provider
-
-
-Jika ingin fitur spesifik, buka issue dengan: judul singkat + screenshot/steps + expected behavior.
-
-
----
-
-📈 Stats & Badges
+📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danzzsky&show_icons=true&theme=tokyonight" height="140" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzzsky&layout=compact&theme=tokyonight" height="140" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=danzzsky&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzzsky&layout=compact&theme=tokyonight" height="160"/>
 </p>
 ---
 
-📬 Hubungi Saya
+🎧 Status Coding Saat Ini
 
-WhatsApp: +62 895-2973-7500
+> "Ketika orang lain tidur, serverku tetap hidup."
 
-Instagram: @m.dnii
 
-Website: https://danzzsky.my.id
+
+> Developing next-gen AI Bot...
+███████████████▒▒▒▒▒ 80%
+
+
+---
+
+🌐 Connect With Me
+
+📱 WhatsApp: +6289529737500
+
+🌐 Website: https://danzzsky.my.id
+
+📸 Instagram: @m.dnii
 
 
 
 ---
 
-📝 Lisensi
+💬 Quote of the Code
 
-Repo ini menggunakan lisensi MIT — cek file LICENSE pada masing-masing project untuk detail.
+> "Automation is not the future. It is the present, and I am building it."
 
 
----
-
-🙏 Kalau Kamu Suka
-
-Berikan ⭐ Star pada repo ini — itu dukungan besar untuk pengembangan Chloe & tooling selanjutnya!
 
 
 ---
 
-Butuh versi yang: dark anime, minimal profesional, atau ingin saya tambahkan SVG animasi / visitor counter / badge khusus?
-Ketik: "Buat versi dark anime" atau "Tambahkan badge + visitor counter".
+⭐ Jangan Lupa
 
- Hi, I’m @Dan-sky
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Jika kamu suka salah satu project saya,
+Silakan beri Star ⭐ — itu sangat berarti untuk pengembangan selanjutnya!
 
-<!---
-Dan-sky/Dan-sky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+---
+
