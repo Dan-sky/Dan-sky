@@ -1,77 +1,83 @@
-Berikut contoh README menarik dan profesional untuk profil GitHub kamu, dengan gaya modern, clean, dan mencerminkan personal branding “Danzzsky / Chloe Assistant”.
+🌌 Welcome to My Universe — @danzzsky
+
+> Automation Architect | AI Integrator | Founder of Chloe Ecosystem
+Membangun masa depan digital dengan sistem yang berjalan otomatis, stabil, dan dapat berkembang tanpa batas.
 
 
----
-
-✨ Hai, Aku Danzzsky!
-
-> Developer dengan passion di dunia Automation, Bot AI, CDN Technology, dan Pterodactyl Engineering.
-
-
-
-<img align="right" src="https://files.catbox.moe/ifx2y7.png" alt="Chloe Assistant" width="230"/>🚀 Tentang Saya
-
-🧠 Fokus utama: Node.js, AI Integration, Fullstack Development
-
-☁️ Membangun ekosistem digital: Chloe CDN, Danzz Store, Bot WhatsApp & Discord
-
-⚡ Menguasai: Pterodactyl, Vercel, GitHub API, QRIS Payment Automation
-
-🎯 Target: Membuat ekosistem otomatis yang bisa berjalan 24/7 secara self-hosted
-
-
-
----
-
-🛠️ Tech Stack
-
-💻 Backend  : Node.js | Express | Next.js | FastAPI
-🎨 Frontend : React | TailwindCSS | ShadCN/UI
-🤖 AI Model : Gemini | GPT | Custom LLM API
-🗄️ Database : MongoDB | GitHub Database | JSON Engine
-⚙️ DevOps   : Pterodactyl | VPS Ubuntu | Docker
-
-
----
-
-🌟 Project Unggulan
-
-Project	Deskripsi	Status
-
-Chloe CDN	Sistem upload file → auto generate link CDN dengan GitHub Repo	✅ Stable
-Chloe Assistant Bot	AI-powered WhatsApp bot dengan fitur otomatisasi bisnis	🔧 On Development
-Danzz Store	Sistem pembayaran QRIS otomatis + dashboard modern	🚀 Live
-Pterodactyl Protect	Bash installer untuk proteksi & backup panel	🛡️ Active
-
-
-
----
-
-📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danzzsky&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzzsky&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://files.catbox.moe/ifx2y7.png" width="200" alt="Chloe Avatar" />
 </p>
 ---
 
-🎧 Status Coding Saat Ini
+🧬 About Me
 
-> "Ketika orang lain tidur, serverku tetap hidup."
+Saya membangun ekosistem digital yang menggabungkan AI, otomasi server, pembayaran modern, dan delivery file (CDN) dalam satu ekosistem bernama Chloe.
 
-
-
-> Developing next-gen AI Bot...
-███████████████▒▒▒▒▒ 80%
+💡 Misi saya:
+Menciptakan platform digital yang tidak hanya berjalan, tetapi berpikir, memproses, dan mengelola dirinya sendiri.
 
 
 ---
 
-🌐 Connect With Me
+⚙️ What I Build
+
+Project	Fungsi	Status
+
+Chloe CDN	Upload → Auto generate public link via GitHub Repo	✅ Stable
+Chloe Assistant Bot	Bot WhatsApp AI dengan modul plugin dan payment	🔥 Active
+Danzz Store	Sistem pembayaran QRIS & dashboard transaksi real-time	🚀 Production
+Pterodactyl Protection	Bash installer untuk backup+proteksi panel	🛡️ Released
+
+
+
+---
+
+🛠️ Skillset
+
+Core   : Node.js | TypeScript | React | Next.js | Bash
+AI     : Gemini | GPT | Custom Model API
+Deploy : Pterodactyl | Docker | Vercel | Ubuntu VPS
+DB     : MongoDB | GitHub JSON DB | FastAPI endpoints
+
+
+---
+
+📌 Featured Repositories
+
+🔗 Chloe CDN – sistem CDN modern berbasis GitHub
+🔗 Chloe Assistant (WA Bot) – AI Powered Bot with modular structure
+🔗 Pterodactyl Auto-Protect – bash installer & restore tools
+
+> Semua proyek saya memiliki tujuan tunggal: menciptakan otomatisasi yang bisa dijalankan siapa saja dengan satu perintah.
+
+
+
+
+---
+
+📊 GitHub Insight
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danzzsky&show_icons=true&theme=radical" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzzsky&layout=compact&theme=radical" height="160">
+</p>
+---
+
+🔮 Currently Working On
+
+> AI Automation Lab                  ████████████░░░░░░ 78%
+> Pterodactyl Secure Mode v2        ██████████░░░░░░░░ 65%
+> Multi-CDN Replication Deployment  ████░░░░░░░░░░░░░ 30%
+
+
+---
+
+🤝 Connect with Me
+
+🌐 Website: https://lit.link/mdnii
 
 📱 WhatsApp: +6289529737500
-
-🌐 Website: https://danzzsky.my.id
 
 📸 Instagram: @m.dnii
 
@@ -79,20 +85,17 @@ Pterodactyl Protect	Bash installer untuk proteksi & backup panel	🛡️ Active
 
 ---
 
-💬 Quote of the Code
+⭐ Support My Work
 
-> "Automation is not the future. It is the present, and I am building it."
+Jika kamu suka dengan project saya, bisa support dengan memberi Star (⭐) pada repository.
+Itu sangat membantu agar project Chloe terus tumbuh menjadi ekosistem global.
+
+
+---
+
+> “Bukan hanya ngoding, tapi menciptakan sistem yang hidup dan bekerja untuk saya.”
 
 
 
 
 ---
-
-⭐ Jangan Lupa
-
-Jika kamu suka salah satu project saya,
-Silakan beri Star ⭐ — itu sangat berarti untuk pengembangan selanjutnya!
-
-
----
-
